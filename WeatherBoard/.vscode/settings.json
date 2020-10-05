@@ -1,0 +1,8 @@
+{
+	"files.exclude": {
+		"D:/Projects/Work/WeatherBoard/.vscode": true,
+		"D:/Projects/Work/WeatherBoard/Intermediate": true,
+		"D:/Projects/Work/WeatherBoard/Saved": true,
+		"D:/Projects/Work/WeatherBoard/TemperatureData": true
+	}
+}
